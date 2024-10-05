@@ -1,2 +1,3 @@
 # CFB25TeamFantasyDraft
 First ever project
+As I've said this is my first ever project and I was introduced to Java less than a month before I completed this project. I know that a lot of this code is repetitive and unecessary but I really just wanted to get my feet wet and make a program to do something I found useful. It was definitely fun and I think this was a great first step in learning how to code, introducing me to the problems I may face and ways I can find solutions. If you have any suggestions on how to improve this please let me know and explain it to me so I can become a better developer. 
